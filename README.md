@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MohdUbaidwani
-- 👀 I’m interested in AI computervision <Deep LEarning Multimodal Language Models
+- 👀 I’m interested in AI computer vision Deep LEarning Multimodal Language Models
 - 🌱 I’m currently learning PhD in AI
 - 💞️ I’m looking to collaborate on AI-driven Video Analysis for Anomaly Detection 
 - 📫 waniubaid34@gmail.com
