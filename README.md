@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohdUbaidwani
 - 👀 I’m interested in AI computer vision Deep LEarning Multimodal Language Models
-- 🌱 I’m currently learning PhD in AI
+- 🌱 I’m currently doing PhD in AI,Computer Vision
 - 💞️ I’m looking to collaborate on AI-driven Video Analysis for Anomaly Detection 
 - 📫 waniubaid34@gmail.com
 - 😄 Mr.Mohd Ubaid Wani
